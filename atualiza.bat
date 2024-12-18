@@ -15,4 +15,5 @@ git push origin master
 :: Exibe mensagem de sucesso
 echo.
 echo "Alteracoes enviadas com sucesso!"
+git status
 pause
